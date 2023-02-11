@@ -9,6 +9,7 @@ https://chat.openai.com/
 - https://runwayml.com/ : With 30+ AI Magic Tools, real-time video editing, collaboration, and more, Runway is your next-generation content creation suite. Right inside your browser.
 - https://www.booth.ai/ : Create pro quality product photography with AI
 - https://looka.com/ : Design your own beautiful brand
+- https://cleanup.pictures/ : Remove any unwanted object, defect, people or text from your pictures in seconds
 
 ## Video
 
