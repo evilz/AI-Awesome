@@ -65,3 +65,4 @@ has arrived.
 - https://donotpay.com/  : The World's First Robot Lawyer
 - https://www.timehero.com/  : Finally, a smart way to plan work.
 - https://fr.adcreative.ai/ : Créations publicitaires et sociales
+- https://sheetformula.com/  : Generate Google Sheets Formula with AI
