@@ -16,6 +16,7 @@ https://chat.openai.com/
 - https://www.booth.ai/ : Create pro quality product photography with AI
 - https://looka.com/ : Design your own beautiful brand
 - https://cleanup.pictures/ : Remove any unwanted object, defect, people or text from your pictures in seconds
+- https://convert.leiapix.com/ - make 3d effect
 
 ## Video
 
