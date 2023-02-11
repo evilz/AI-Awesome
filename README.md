@@ -1,5 +1,10 @@
 
+
 https://chat.openai.com/
+
+## Prompt
+
+- chart Gpt : https://github.com/f/awesome-chatgpt-prompts
 
 
 ## Image
@@ -14,6 +19,8 @@ https://chat.openai.com/
 ## Video
 
 - https://www.descript.com/  : There’s a new way to make video and podcasts
+- https://lumen5.com/ : Our online video creator makes it easy for anyone
+on your team to create engaging video content
 
 ## Audio
 
