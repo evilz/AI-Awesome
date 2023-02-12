@@ -41,6 +41,7 @@ from long ones instantly
 - https://podcast.adobe.com/ : AI-powered audio recording and editing, all on the web
 - https://murf.ai/ : Go from text to speech with a versatile AI voice generator
 - https://speechify.com/ : The #1 Text to Speech Reader
+- https://www.listnr.tech/ : Create realistic Text to Speech (TTS) audio using our AI Voice Generator with some of the best AI voices. Easily convert text to realistic speech and download in MP3 or WAV formats.
 
 ## Avatar
 
