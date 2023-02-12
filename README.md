@@ -22,6 +22,7 @@ https://chat.openai.com/
 - https://www.watermarkremover.io/ : Remove Watermarks from Your Images
 - https://huggingface.co/spaces/pharma/CLIP-Interrogator : Want to figure out what a good prompt might be to create new images like an existing one?
 - https://lexica.art/ : The Stable Diffusion search engine
+- https://playgroundai.com/ : image search
 
 ## Video
 
