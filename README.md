@@ -74,3 +74,4 @@ has arrived.
 - https://www.timehero.com/  : Finally, a smart way to plan work.
 - https://fr.adcreative.ai/ : Créations publicitaires et sociales
 - https://sheetformula.com/  : Generate Google Sheets Formula with AI
+- https://www.sheetai.app/ : google sheet to generate taglines, subject lines, emails, and blogs, as well as summarize, classify, and extract from text.
