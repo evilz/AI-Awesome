@@ -17,6 +17,8 @@ https://chat.openai.com/
 - https://looka.com/ : Design your own beautiful brand
 - https://cleanup.pictures/ : Remove any unwanted object, defect, people or text from your pictures in seconds
 - https://convert.leiapix.com/ - make 3d effect
+- https://imglarger.com/ : AI Image Enlarger & Enhancer Tools
+- https://magicstudio.com/ : Powered by AI, Created by You
 
 ## Video
 
