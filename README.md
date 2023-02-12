@@ -20,6 +20,8 @@ https://chat.openai.com/
 - https://imglarger.com/ : AI Image Enlarger & Enhancer Tools
 - https://magicstudio.com/ : Powered by AI, Created by You - Profile pic, pig gen, remover, BG remover, enlarge
 - https://www.watermarkremover.io/ : Remove Watermarks from Your Images
+- https://huggingface.co/spaces/pharma/CLIP-Interrogator : Want to figure out what a good prompt might be to create new images like an existing one?
+- https://lexica.art/ : The Stable Diffusion search engine
 
 ## Video
 
@@ -45,11 +47,12 @@ from long ones instantly
 
 - https://durable.co/ Build a website in 30 seconds with AI
 - https://debuild.app/ Code your web app in seconds.
+- https://www.usegalileo.ai/ : 
 
 ## Application
 
 - https://www.brancher.ai/ : Connect AI models to build AI apps in
-minutes, with no-code
+minutes, with no-code : Idea to design in an instant
 
 
 ## Text
