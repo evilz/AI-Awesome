@@ -38,6 +38,7 @@ from long ones instantly
 - https://beta.elevenlabs.io/ : The most realistic and versatile AI speech software, ever
 - https://podcast.adobe.com/ : AI-powered audio recording and editing, all on the web
 - https://murf.ai/ : Go from text to speech with a versatile AI voice generator
+- https://speechify.com/ : The #1 Text to Speech Reader
 
 ## Avatar
 
