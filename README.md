@@ -18,7 +18,7 @@ https://chat.openai.com/
 - https://cleanup.pictures/ : Remove any unwanted object, defect, people or text from your pictures in seconds
 - https://convert.leiapix.com/ - make 3d effect
 - https://imglarger.com/ : AI Image Enlarger & Enhancer Tools
-- https://magicstudio.com/ : Powered by AI, Created by You
+- https://magicstudio.com/ : Powered by AI, Created by You - Profile pic, pig gen, remover, BG remover, enlarge
 
 ## Video
 
