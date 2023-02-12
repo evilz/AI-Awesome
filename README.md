@@ -32,6 +32,7 @@ on your team to create engaging video content
 - https://vidyo.ai/ Make short videos
 from long ones instantly
 - https://www.unscreen.com/ : background remover
+- https://app.getmunch.com/  : Create once. Repurpose to Dozens of pieces on every platform. Analyze engagement.
 
 ## Audio
 
