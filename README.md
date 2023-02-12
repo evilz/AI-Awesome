@@ -19,6 +19,7 @@ https://chat.openai.com/
 - https://convert.leiapix.com/ - make 3d effect
 - https://imglarger.com/ : AI Image Enlarger & Enhancer Tools
 - https://magicstudio.com/ : Powered by AI, Created by You - Profile pic, pig gen, remover, BG remover, enlarge
+- https://www.watermarkremover.io/ : Remove Watermarks from Your Images
 
 ## Video
 
