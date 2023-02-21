@@ -80,3 +80,5 @@ has arrived.
 - https://fr.adcreative.ai/ : Créations publicitaires et sociales
 - https://sheetformula.com/  : Generate Google Sheets Formula with AI
 - https://www.sheetai.app/ : google sheet to generate taglines, subject lines, emails, and blogs, as well as summarize, classify, and extract from text.
+- https://www.brancher.ai/ : Connect AI models to build AI
+apps in minutes, with no-code
