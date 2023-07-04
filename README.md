@@ -1,6 +1,10 @@
 
+## Chat Bot
 
-https://chat.openai.com/
+- https://chat.openai.com/
+- https://dante-ai.com/ : Build a custom AI chatbot in minutes. Upload your files, customize the styling, embed on your website.
+
+
 
 ## Prompt
 
@@ -38,6 +42,8 @@ from long ones instantly
 
 ## Audio
 
+- https://krisp.ai/ : Krisp improves the productivity of online meetings with its AI-powered Voice Clarity and Meeting Assistant.
+- https://cleanvoice.ai/ : Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording
 - https://beta.elevenlabs.io/ : The most realistic and versatile AI speech software, ever
 - https://podcast.adobe.com/ : AI-powered audio recording and editing, all on the web
 - https://murf.ai/ : Go from text to speech with a versatile AI voice generator
