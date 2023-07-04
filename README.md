@@ -10,6 +10,7 @@ https://chat.openai.com/
 
 ## Image
 
+- https://clipdrop.co/stable-diffusion
 - https://www.bluewillow.ai/  : Bring your ideas to life with AI-generated images
 - https://midjourney.com/ 
 - https://runwayml.com/ : With 30+ AI Magic Tools, real-time video editing, collaboration, and more, Runway is your next-generation content creation suite. Right inside your browser.
@@ -42,6 +43,7 @@ from long ones instantly
 - https://murf.ai/ : Go from text to speech with a versatile AI voice generator
 - https://speechify.com/ : The #1 Text to Speech Reader
 - https://www.listnr.tech/ : Create realistic Text to Speech (TTS) audio using our AI Voice Generator with some of the best AI voices. Easily convert text to realistic speech and download in MP3 or WAV formats.
+- https://app.wondercraft.ai/ : Embrace the AI Revolution in podcasting. Turn existing content into captivating podcasts, effortlessly.
 
 ## Avatar
 
@@ -70,6 +72,7 @@ minutes, with no-code : Idea to design in an instant
 - https://quillbot.com/ : Paraphraser, summarize ...
 - https://tome.app/ : slide presentation - Generative storytelling
 has arrived.
+- https://www.metaview.ai/: Automatic, AI-generated interview notes
 
 
 
